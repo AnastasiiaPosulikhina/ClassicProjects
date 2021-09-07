@@ -1,0 +1,12 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.pdb

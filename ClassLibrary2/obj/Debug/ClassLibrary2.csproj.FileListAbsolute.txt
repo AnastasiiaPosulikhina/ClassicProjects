@@ -1,0 +1,9 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\bin\Debug\UnityEngine.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\bin\Debug\UnityEngine.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

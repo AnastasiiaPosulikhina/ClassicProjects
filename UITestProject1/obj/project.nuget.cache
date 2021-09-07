@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MGp8CnKb33RgPMkaQ2pqZihN+8HVh5Iy4daZWUqFZU9BxUmsifbX0ZTK8fll9VgwOgCEPTelln++xP5dF53gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\ClassicProjects\\UITestProject1\\UITestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\nunit\\2.6.4\\nunit.2.6.4.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\xamarin.uitest\\2.2.4\\xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
