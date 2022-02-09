@@ -4,3 +4,5 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication1\
 C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
 C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.File.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.cache

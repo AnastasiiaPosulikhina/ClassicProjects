@@ -1,0 +1,8 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

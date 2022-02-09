@@ -32,6 +32,11 @@
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
+    <PropertyGroup>
+        <PreBuildEvent>$(SolutionDir)TestFile.bat
+$(SolutionDir)\$(ProjectDir)AnotherTestFile.bat
+        </PreBuildEvent>
+    </PropertyGroup>
     <ItemGroup>
         <Reference Include="System" />
         <Reference Include="System.Core" />
@@ -45,18 +50,17 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-      <None Include="MyIcon.ico" />
+        <None Include="MyIcon.ico" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-      <Exec Command="&quot;C:\Users\Anastasiia.Posulikhi\Desktop\JB\Files to test build events\TxtFileCreator.bat&quot;" />
+        <Exec Command="&quot;C:\Users\Anastasiia.Posulikhi\Desktop\JB\Files to test build events\TxtFileCreator.bat&quot;" />
     </Target>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
-         Other similar extension points exist, see Microsoft.Common.targets.
-    <Target Name="BeforeBuild">
-    </Target>
-    <Target Name="AfterBuild">
-    </Target>
-    -->
-
+           Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+      -->
 </Project>

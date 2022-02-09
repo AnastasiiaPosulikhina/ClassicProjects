@@ -43,6 +43,8 @@
         <Reference Include="Mono.Android" />
         <Reference Include="System" />
         <Reference Include="System.Core" />
+        <Reference Include="System.Runtime.Serialization" />
+        <Reference Include="System.ServiceModel" />
         <Reference Include="System.Xml.Linq" />
         <Reference Include="System.Xml" />
     </ItemGroup>
@@ -50,11 +52,20 @@
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Connected Services\CalculatorService\CalculatorService.cs">
+          <AutoGen>True</AutoGen>
+          <DesignTime>True</DesignTime>
+          <DependentUpon>CalculatorService.svcmap</DependentUpon>
+        </Compile>
         <Compile Include="MainActivity.cs" />
         <Compile Include="Resources\Resource.Designer.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
+        <None Include="Connected Services\CalculatorService\CalculatorService.svcmap">
+          <Generator>WCF Proxy Generator</Generator>
+          <LastGenOutput>CalculatorService.cs</LastGenOutput>
+        </None>
         <None Include="Resources\AboutResources.txt" />
         <None Include="Assets\AboutAssets.txt" />
         <None Include="Properties\AndroidManifest.xml" />
@@ -70,6 +81,12 @@
             <Project>{B92F74FB-F7CC-4E45-A64E-8174561284AD}</Project>
             <Name>AppXamarin</Name>
         </ProjectReference>
+    </ItemGroup>
+    <ItemGroup>
+      <WCFMetadata Include="Connected Services" />
+    </ItemGroup>
+    <ItemGroup>
+      <WCFMetadataStorage Include="Connected Services\CalculatorService" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
     <Target Name="PreBuild" BeforeTargets="PreBuildEvent">

@@ -11,7 +11,7 @@
     <AssemblyName>ConsoleApplication1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <ApplicationIcon>https://www.flaticon.com/free-icon/ico-file_1829007</ApplicationIcon>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -39,20 +39,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="File.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>File.resx</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\..\..\Desktop\JB\Icons\256_icon_with_a_very_very_very_long_name.ico">
+      <Link>256_icon_with_a_very_very_very_long_name.ico</Link>
+    </None>
     <None Include="MyIcon.ico" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="256.ico" />
     <Content Include="MyIcon2.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="File.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>File.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
     <Exec Command="&quot;C:\Users\Anastasiia.Posulikhi\Desktop\JB\Files to test build events\TxtFileCreator.bat&quot;" />
   </Target>
+  <PropertyGroup>
+    <PreBuildEvent>
+      $(OutDir)$(ProjectName)
+      $(OutDir)$(ProjectName)
+      $(OutDir)$(ProjectName)
+      $(OutDir)$(ProjectName)
+    </PreBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.
     <Target Name="BeforeBuild">

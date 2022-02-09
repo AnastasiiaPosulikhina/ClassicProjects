@@ -20238,7 +20238,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.0.2": {
-      "sha512": "fRHBvQs9Z/ZSUAqaSotK1UPol/lwybTgdeTXR4eVw3rVDgzUnWGTUsK0A418oR7NrimNL1TQu/IM0RDa26s0qg==",
+      "sha512": "+r/a5FX/F8Fg9/PGTTGtOc9memDgZ3bvrwfpnIHdpTUA4r/IJ1caU8OsRqFgXcup+gBzdHJ/y/wQkofCWh7KXQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.0.2",
       "files": [
@@ -23381,7 +23381,7 @@
       ]
     },
     "System.Data.Common/4.1.0": {
-      "sha512": "epU8jeTe7aE7RqGHq9rZ8b0Q4Ah7DgubzHQblgZMSqgW1saW868WmooSyC5ywf8upLBkcVLDu93W9GPWUYsU2Q==",
+      "sha512": "DeahGetUucjHvnBefS9NPhnkQunFmJ/DEI+88kHe49Grj8jUW2VYI8O+fI4N24zyHDF78qMUT74/WLWlD9KKeA==",
       "type": "package",
       "path": "system.data.common/4.1.0",
       "files": [
@@ -25116,7 +25116,7 @@
       ]
     },
     "System.Net.WebSockets.Client/4.0.2": {
-      "sha512": "NUCcDroX4lCQXgOrzlwIZ1u9YJ0krfyF0wk0ONnyLUmcQoEiYV2/OfUPRqUwQBbpH1BlGApkLgoQUwMqb5+c1g==",
+      "sha512": "p5MXWWWeMzst81B1beckoyyjWH+Zm9xbYTS0k0nyrRFmukEqpbJw9aSVZmkOaDdWlvsWFDoyoAONJoZHLJxh+Q==",
       "type": "package",
       "path": "system.net.websockets.client/4.0.2",
       "files": [
@@ -27814,7 +27814,7 @@
   "packageFolders": {
     "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -27828,7 +27828,7 @@
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\Anastasiia.Posulikhi\\AppData\\Roaming\\NuGet\\NuGet.Config",

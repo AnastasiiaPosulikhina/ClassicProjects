@@ -1,4 +1,3 @@
-C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ASPNET\bin\ASPNET.dll.config
 C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ASPNET\bin\ASPNET.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ASPNET\bin\ASPNET.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\ASPNET\bin\roslyn\csc.exe

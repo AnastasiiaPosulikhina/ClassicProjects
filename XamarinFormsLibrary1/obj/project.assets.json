@@ -252,9 +252,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\ClassicProjects\\XamarinFormsLibrary1\\XamarinFormsLibrary1.csproj",
-      "projectName": "XamarinFormsLibrary1",
-      "projectPath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\ClassicProjects\\XamarinFormsLibrary1\\XamarinFormsLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\ClassicProjects\\XamarinFormsLibrary1\\XamarinFormsLibrary.csproj",
+      "projectName": "XamarinFormsLibrary",
+      "projectPath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\ClassicProjects\\XamarinFormsLibrary1\\XamarinFormsLibrary.csproj",
       "packagesPath": "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\ClassicProjects\\XamarinFormsLibrary1\\obj\\",
       "projectStyle": "PackageReference",
@@ -310,7 +310,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
